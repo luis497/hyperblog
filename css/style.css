@@ -1,5 +1,21 @@
 body {
-    color:grey;
+    color:black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black ;
+    margin: 0 auto;
+
+} 
+
+#contenedor h1 {
+    font-size: 20px;
 }
